@@ -24,4 +24,4 @@ percentage_with <- GC(lepraeseq)*100
 #(ii)
 percentage_without <- GC(lepraeseq, exact = FALSE)*100
 
-
+#
